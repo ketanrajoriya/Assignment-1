@@ -22,7 +22,7 @@ for(j=i+1;j<str.length();j++)
 {
 if(array[i]==array[j])
 {
-System.out.println("ytytuy "+count[i]);
+System.out.println(" "+count[i]);
 
 count[array[i]]++;
 }
